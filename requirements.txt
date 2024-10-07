@@ -1,0 +1,14 @@
+brightway2==2.4.3
+bw-migrations==0.2
+bw2analyzer==0.10
+bw2calc==1.8.2
+bw2data==3.6.6
+bw2io==0.8.8
+bw2parameters==0.7
+wurst==0.3.3
+premise-gwp==0.9.6
+pandas==1.5.3
+numpy==1.24.2
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+jupyter notebook==6.4.8

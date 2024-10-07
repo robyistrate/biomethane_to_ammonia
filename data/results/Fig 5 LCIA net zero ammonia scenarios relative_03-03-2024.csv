@@ -1,0 +1,46 @@
+Scenario,Category,Total,Ammonia production from natural gas with CCS,DACCS,Ammonia production from green H2,Ammonia production from biomethane with CCS
+Natural gas + CCS Syngas + CCS Heating,Acidification,0.903855249889407,0.6615569566771606,0.2422982932122463,,
+Natural gas + CCS Syngas + CCS Heating,"Eutrophication, freshwater",1.0,0.3263706020220109,0.6736293979779892,,
+Natural gas + CCS Syngas + CCS Heating,"Eutrophication, marine",0.6348195952462327,0.426561999475082,0.20825759577115066,,
+Natural gas + CCS Syngas + CCS Heating,"Eutrophication, terrestrial",0.7360194626006114,0.6393805540934098,0.09663890850720161,,
+Natural gas + CCS Syngas + CCS Heating,Photochemical oxidant formation,0.15318090454597078,0.11390292889131254,0.03927797565465822,,
+Natural gas + CCS Syngas + CCS Heating,Particulate matter formation,0.7650971304340233,0.617328311164457,0.14776881926956625,,
+Natural gas + CCS Syngas + CCS Heating,Ozone depletion,1.0,0.8980551914931388,0.10194480850686123,,
+Natural gas + CCS Syngas + CCS Heating,"Ecotoxicity, freshwater",1.0,0.626392450324201,0.37360754967579896,,
+Natural gas + CCS Syngas + CCS Heating,"Human toxicity, carcinogenic",0.8828236852286738,0.5825209114991936,0.3003027737294803,,
+Natural gas + CCS Syngas + CCS Heating,"Human toxicity, non-carcinogenic",1.0,0.47982257991949057,0.5201774200805094,,
+Natural gas + CCS Syngas + CCS Heating,Ionising radiation,1.0,0.27564021782661347,0.7243597821733865,,
+Natural gas + CCS Syngas + CCS Heating,"Energy resources, non-renewable",1.0,0.7307139425499091,0.26928605745009093,,
+Natural gas + CCS Syngas + CCS Heating,"Material resources, minerals/metals",1.0,0.5719993375166834,0.42800066248331653,,
+Natural gas + CCS Syngas + CCS Heating,Land use,0.8718232010836786,0.3794080767855558,0.4924151242981228,,
+Natural gas + CCS Syngas + CCS Heating,Water use,1.0,0.8631910270133092,0.1368089729866908,,
+Green H2,Acidification,0.5674446298963733,,0.0736268783476176,0.4938177515487558,
+Green H2,"Eutrophication, freshwater",0.3916698725237374,,0.2046949199632147,0.1869749525605227,
+Green H2,"Eutrophication, marine",0.30442716200014097,,0.0632829743269312,0.24114418767320978,
+Green H2,"Eutrophication, terrestrial",0.4969093739412597,,0.02936554387559615,0.4675438300656636,
+Green H2,Photochemical oxidant formation,0.052303417129393216,,0.011935349180247723,0.04036806794914549,
+Green H2,Particulate matter formation,0.6037585350241417,,0.044902325706442724,0.5588562093176989,
+Green H2,Ozone depletion,0.13186131321981173,,0.03097784105119928,0.10088347216861246,
+Green H2,"Ecotoxicity, freshwater",0.626204629990463,,0.11352765735595059,0.5126769726345125,
+Green H2,"Human toxicity, carcinogenic",1.0,,0.09125262706437863,0.9087473729356214,
+Green H2,"Human toxicity, non-carcinogenic",0.6483908087112679,,0.15806565997514635,0.4903251487361215,
+Green H2,Ionising radiation,0.29746719551305234,,0.22011029815744146,0.0773568973556109,
+Green H2,"Energy resources, non-renewable",0.1464824622642942,,0.08182761640512176,0.06465484585917244,
+Green H2,"Material resources, minerals/metals",0.8524136447530954,,0.13005602429793003,0.7223576204551654,
+Green H2,Land use,0.8063092484665442,,0.14962956598900415,0.65667968247754,
+Green H2,Water use,0.7920621268330112,,0.041571970967744655,0.7504901558652666,
+Blending strategy,Acidification,1.0,0.3705835851698283,,,0.6294164148301715
+Blending strategy,"Eutrophication, freshwater",0.4559607532912826,0.1828226376740746,,,0.27313811561720797
+Blending strategy,"Eutrophication, marine",1.0,0.23894673537508837,,,0.7610532646249116
+Blending strategy,"Eutrophication, terrestrial",1.0,0.35816105572212376,,,0.6418389442778764
+Blending strategy,Photochemical oxidant formation,1.0,0.06380487019878069,,,0.9361951298012192
+Blending strategy,Particulate matter formation,1.0,0.3458080766427497,,,0.6541919233572502
+Blending strategy,Ozone depletion,0.60049036947885,0.5030625242239156,,,0.0974278452549344
+Blending strategy,"Ecotoxicity, freshwater",0.807510728369219,0.35088552485396307,,,0.4566252035152559
+Blending strategy,"Human toxicity, carcinogenic",0.9187968943681868,0.3263100563616523,,,0.5924868380065346
+Blending strategy,"Human toxicity, non-carcinogenic",0.6600378675952402,0.2687816523086985,,,0.3912562152865417
+Blending strategy,Ionising radiation,0.41498808395558123,0.1544050578082378,,,0.2605830261473434
+Blending strategy,"Energy resources, non-renewable",0.5339297130640143,0.4093231729038727,,,0.12460654016014161
+Blending strategy,"Material resources, minerals/metals",0.6676457875933646,0.32041619859367937,,,0.34722958899968526
+Blending strategy,Land use,1.0,0.21253257775988388,,,0.7874674222401161
+Blending strategy,Water use,0.8940228719610867,0.48353270606316306,,,0.41049016589792353
